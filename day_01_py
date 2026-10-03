@@ -1,0 +1,7 @@
+print("Day 1 - Python Learning Started")
+name = "Ayush"
+print(f"Hello, {name}")
+
+# loop practice
+for i in range(1, 11):
+    print(f"Number {i}")
